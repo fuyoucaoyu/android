@@ -55,6 +55,6 @@
 
 
 ## Example Steps
-1. cd /Users/baidu/workspace/android/baidu/l3/mapautohud
+1. cd /demoapp
 2. ./gradlew clean build app:lint 
 3. android-resource-remover --app app --xml build/reports/lint-results.xml
