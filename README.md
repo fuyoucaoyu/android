@@ -9,8 +9,7 @@
 
 ## tools
 
-- android-resource-remover：清除 Android 项目中不再使用的资源
-
+- [android-resource-remover：清除 Android 项目中不再使用的资源](./tools/清除Android项目中不再使用的资源.md)
 
 ## examples
 
